@@ -10,4 +10,4 @@ El objetivo de este proyecto es reproducir los pasos que haría un/a Data Scient
 * En la Parte 3, deberás utilizar herramientas de Machine Learning para predecir la variable de interés.
 
 
-En este proyecto vas a trabajar con un dataset de propiedades en venta publicado en el portal [Properati](https://www.properati.com.ar).
+En este proyecto vas a trabajar con un dataset de propiedades en venta publicado en el portal [Properati](https://www.properati.com.ar). Especificamente este: [Datos_Properati](https://drive.google.com/file/d/1gFg1SA2z9ZCgioSgb0L1sYUVML-0mgOt/view) (Todos los derechos reservados)
