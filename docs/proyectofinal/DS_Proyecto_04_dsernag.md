@@ -3,9 +3,9 @@ ___
 ## Mejora en el TP3. Obtención de datos hidroclimáticos & entrenamiento de una red neuronal LSTM
 ___
 
-Presentado por [David Serna Gutiérrez](https://www.linkedin.com/in/dserna-g94/).
+Presentado por [David Serna Gutiérrez](https://www.linkedin.com/in/dsernag/).
 
-Notebook disponible en el repositorio de Git-Hub: [https://github.com/dsernag/ACAMICA-DS-ONLINE-33](https://github.com/dsernag/ACAMICA-DS-ONLINE-33)
+Notebook disponible en el repositorio de Git-Hub: [https://github.com/dsernag/Data_Science_Acamica/](https://github.com/dsernag/Data_Science_Acamica/)
 
 Ingeniero Forestal de la Universidad Nacional de Colombia Sede Medellín
 
