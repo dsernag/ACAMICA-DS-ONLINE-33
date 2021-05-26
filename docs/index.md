@@ -5,7 +5,7 @@ La carrera [Científico de Datos](https://acamica.cdn.prismic.io/acamica/3d9d15e
 En el mes de abril de 2021 terminé mi formación. Para completar la formación es necesario entregar los cuatro proyectos en orden.
 Dejo para la comunidad el código con el ánimo de ayudar en casos similares o servir de inspiración. Estos son los 4 sprints:
 
-### Sprint 1: Introducción a Data Science<br>(Mi primer modelo de Machine Learning)[].
+### Sprint 1: Introducción a Data Science<br>(Mi primer modelo de Machine Learning).
 
   * Proyecto Análisis de mercado inmobiliario: [Ir](https://dsernag.github.io/Data_Science_Acamica/proyecto1/DS_Proyecto_01_dsernag.html)
   * Notebook: [Ir](https://github.com/dsernag/Data_Science_Acamica/tree/main/Proyecto_01)
