@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## ¡Bienvenidos a mis proyectos para Acámica!
 
-You can use the [editor on GitHub](https://github.com/dsernag/Data_Science_Acamica/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+La carrera [Científico de Datos](https://acamica.cdn.prismic.io/acamica/3d9d15e7-a70a-4308-a14c-28d55ad8fa58_Plan+de+estudios_Data+Science_2021.pdf) ofrecida por Acámica, es un programa de 8 meses, con una dedicación estimada de 14 horas semanales: 2 horas y media en cada uno de los 2 encuentros semanales online, más la preparación individual asincrónica desde la plataforma, más el tiempo de trabajo individual en los proyectos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para completar la formación es necesario entregar los cuatro proyectos en orden. En el mes de abril de 2021 terminé mi formación. Dejo para la comunidad el código con el ánimo de ayudar en casos similares o servir de inspiración. Estos son los 4 sprints:
 
-### Markdown
+### Sprint 1: Introducción a Data Science<br>(Mi primer modelo de Machine Learning)[].
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  * Proyecto Análisis de mercado inmobiliario: [Ir](https://dsernag.github.io/Data_Science_Acamica/proyecto1/DS_Proyecto_01_dsernag.html)
+  * Notebook: [Ir](https://github.com/dsernag/Data_Science_Acamica/tree/main/Proyecto_01)
 
-```markdown
-Syntax highlighted code block
+### Sprint 2: Herramientas Avanzadas<br>Ingeniería de Features, Modelos Avanzados e Interpretación de Modelos.
 
-# Header 1
-## Header 2
-### Header 3
+  * Proyecto Profundización en la generación de modelos: [Ir](https://dsernag.github.io/Data_Science_Acamica/proyecto2/DS_Proyecto_02_dsernag.html)
+  * Notebook: [Ir](https://github.com/dsernag/Data_Science_Acamica/tree/main/Proyecto_02)
+  
+### Sprint 3: Aplicaciones<br>Aplicaciones actuales.
 
-- Bulleted
-- List
+  * Proyecto Análisis temporal de los casos de dengue en Medellín entre 2010-2018: [Ir](https://dsernag.github.io/Data_Science_Acamica/proyecto3/DS_Proyecto_03_dsernag.html)
+  * Notebook: [Ir](https://github.com/dsernag/Data_Science_Acamica/tree/main/Proyecto_03)
 
-1. Numbered
-2. List
+### Sprint 4: Predicción, inferencias e incertezas<br>Informe final.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsernag/Data_Science_Acamica/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  * Proyecto Obtención de datos hidroclimáticos mediante web scraping y<br>entrenamiento de una red neuronal LSTM: [Ir](https://dsernag.github.io/Data_Science_Acamica/proyectofinal/DS_Proyecto_04_dsernag.html)
+  * Notebook y bases de datos: [Ir](https://github.com/dsernag/Data_Science_Acamica/tree/main/Proyecto_04)
