@@ -2,7 +2,7 @@
 
 Presentado por [David Serna Gutiérrez](https://www.linkedin.com/in/dserna/).
 
-Notebook disponible en el repositorio de Git-Hub: [https://github.com/dsernag/ACAMICA-DS-ONLINE-33](https://github.com/dsernag/Data_Science_Acamica)
+Notebook disponible en el repositorio de Git-Hub: [https://github.com/dsernag/Data_Science_Acamica](https://github.com/dsernag/Data_Science_Acamica)
 
 Ingeniero Forestal de la Universidad Nacional de Colombia Sede Medellín
 
