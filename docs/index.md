@@ -2,8 +2,8 @@
 
 La carrera [Científico de Datos](https://acamica.cdn.prismic.io/acamica/3d9d15e7-a70a-4308-a14c-28d55ad8fa58_Plan+de+estudios_Data+Science_2021.pdf) ofrecida por Acámica, es un programa de 8 meses, con una dedicación estimada de 14 horas semanales, las cuales corresponden aproximadamente a 5 horas semanales de clases sincrónicas, 4 horas de preparación individual asincrónica desde la plataforma, y 5 horas de trabajo individual en los proyectos.
 
-En el mes de abril de 2021 terminé mi formación. Para completar la formación es necesario entregar los cuatro proyectos en orden.
-Dejo para la comunidad el código con el ánimo de ayudar en casos similares o servir de inspiración. Estos son los 4 sprints:
+En el mes de abril de 2021 terminé mi formación. Para completar la carrera es necesario entregar los cuatro proyectos en orden.
+Dejo para la comunidad el desarrollo de los mismos, con el ánimo de ayudar en casos similares o servir de inspiración. Estos son los 4 sprints:
 
 ### Sprint 1: Introducción a Data Science.<br>Mi primer modelo de Machine Learnin).
 
